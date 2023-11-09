@@ -1,0 +1,1 @@
+<jsp:forward page="/topic?method=list&c_id=1"></jsp:forward>
